@@ -1,18 +1,18 @@
-<h3 align="center">💝MAALUTTY_V2💝</h3>
+<h3 align="center">💝𝔸ℂℍ𝕌💝</h3>
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F5000&lines=Welcome+to+MAALUTTY_V2+WA+Bot...;Created+by+husni+and+nijin...;This+is+a+Bgm+stickerbot...;With+more+features...)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F5000&lines=Welcome+to+MAALUTTY_V2+WA+Bot...;Created+by+rix+and+lisa...;This+is+a+Bgm+stickerbot...;With+more+features...)](https://git.io/typing-svg)
 
 <div align="center">
   <img border-radius: 15px src="https://i.ibb.co/N6b6cv3/Maalutty.png" width="200" height="200"/>
   <p align="center">
-<a href="#"><img title="MAALUTTY_V2" src="https://img.shields.io/badge/MAALUTTY_V2-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="𝔸ℂℍ𝕌" src="https://img.shields.io/badge/𝔸ℂℍ𝕌-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/nijin-husni"><img title="Author" src="https://img.shields.io/badge/Author-Husnijin-/MAALUTTY_V2?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/achumwol/Maalutty_V2/blob/master/app.json"><img title="Author" src="https://img.shields.io/badge/Author-Husnijin-/MAALUTTY_V2?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/nijin-husni">nijin-husni</a> to make it public
+Project created by <a href="https://github.com/achumwol/Maalutty_V2/blob/master/app.json">nijin-husni</a> to make it public
     <br>
        | © |
         Reserved |
@@ -21,7 +21,7 @@ Project created by <a href="https://github.com/nijin-husni">nijin-husni</a> to m
 
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/nijin-husni/MAALUTTY_V2&title=MAALUTTY_V2%20Views)
 
-get extra feturs use maalutty v3😍⏬
+get extra feturs use achu v3😍⏬
 
 [![Maalutty Card](https://github-readme-stats.vercel.app/api/pin/?username=nijin-husni&repo=MAALUTTY_V3&theme=nightowl)](https://github.com/nijin-husni/MAALUTTY_V3)
   </div>
@@ -76,7 +76,7 @@ Click WA logo to Join Support Group 👇
 ##Not allowed bots on this group 🔰
     <br>
 <br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/FO3JyZPm1ma3vHyEQjaToY)
+  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/IK219IrEYec3Ja2HpcEDbZ)
   <div align="center">
 
 
@@ -84,21 +84,21 @@ Click WA logo to Join public bot Group👇
 ##Bots allowed grops 🔰
     <br>
 <br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/BUt420LTGKBHNHALHKV9jJ)
+  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/IK219IrEYec3Ja2HpcEDbZ)
   <div align="center">
 
   </div>
 
 ### youtube👇
 
-[![subscribe](https://i.ibb.co/mqttCVQ/images-1-1.png)](https://youtube.com/channel/UCllom1TvXieyxcGaanSpMvA)
+[![subscribe](https://i.ibb.co/mqttCVQ/images-1-1.png)](https://youtube.com/channel/UCisGCPiJhmmmdNSa-_MRKYg)
 
 
 ### contact on instagram👇
 
-[![follow](https://i.ibb.co/zHdm4Hj/images-5-2.jpg)](https://www.instagram.com/_husni_ser_/)
+[![follow](https://i.ibb.co/zHdm4Hj/images-5-2.jpg)](https://instagram.com/rix_lisa_?utm_medium=copy_link)
 
-### ❤️ MAALUTTY_V2 💙 website⤵️
+### ❤️𝔸ℂℍ𝕌💙 website⤵️
 
 [![view](https://i.ibb.co/cyXKpj7/images-7-1-1.jpg)](https://maalutty_v2nijinhusni.blogspot.com)
 
